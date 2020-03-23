@@ -1,6 +1,6 @@
-# world_time_app
+# World Time App
 
-A new Flutter project.
+A simple Flutter project from [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) [Tutorials](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ).
 
 ## Getting Started
 
